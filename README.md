@@ -38,7 +38,7 @@ Jumping Mario is a simple endless runner game inspired by the Google Chrome dino
 
 ## Screenshots
 
-![In Game](./images/screen_in_game.png)
+![In Game](./images/Screen_in_game.png)
 
 ## License
 
