@@ -14,6 +14,38 @@
     background: linear-gradient(#87CEEB, #E0F6FF);
 }
 
+.start-button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #52c23e;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.start-button:hover {
+    background-color: #45a032;
+    color: black;
+}
+
+
+h2 {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    font-size: 24px;
+    color: #333;
+    z-index: 10;
+    background: rgba(255,255,255,0.7);
+    padding: 6px 18px;
+    border-radius: 12px;
+}
+
 .pipe{
     position: absolute;
     bottom: 0;
